@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "842628330377",
+    "project_id": "my-app-e93c2",
+    "storage_bucket": "my-app-e93c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842628330377:android:79e05047a7c01dc86c6758",
+        "android_client_info": {
+          "package_name": "baraton.enocklagat.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842628330377-g2thdjlqhl11gm1h9h81l1hbh46398gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdjNBSSjREvTheCyD7cVwRxjBVY1WSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842628330377-g2thdjlqhl11gm1h9h81l1hbh46398gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842628330377:android:3129aa526fd62d7b6c6758",
+        "android_client_info": {
+          "package_name": "baraton.enocklagat.com.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842628330377-g2thdjlqhl11gm1h9h81l1hbh46398gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdjNBSSjREvTheCyD7cVwRxjBVY1WSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842628330377-g2thdjlqhl11gm1h9h81l1hbh46398gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
